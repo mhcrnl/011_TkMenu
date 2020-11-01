@@ -15,5 +15,5 @@ Tutorialspoint [https://www.tutorialspoint.com/python/tk_menu.htm](https://www.t
 
 ## Photo:
 
-![photo](Screenshot%202020-11-01%2007:33:50.png
+![photo](Screenshot202020-11-012007:33:50.png
 )
