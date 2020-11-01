@@ -1,11 +1,17 @@
 #### #pyton3 #tkinter #gui #idle3
 # Python3 GUI Programming with Tkinter (Tutorial 011) - Tkinter Menu Widget
 
-Youtube video: [https://www.youtube.com/watch?v=sJLVJ-Qk3Nc](https://www.youtube.com/watch?v=sJLVJ-Qk3Nc)
+## Youtube video: 
 
-Github: [https://github.com/mhcrnl/010_tk_menubutton](https://github.com/mhcrnl/010_tk_menubutton)
+Tutorial 010: [https://www.youtube.com/watch?v=sJLVJ-Qk3Nc](https://www.youtube.com/watch?v=sJLVJ-Qk3Nc)
 
-011_TkMenu [https://github.com/mhcrnl/011_TkMenu](https://github.com/mhcrnl/011_TkMenu)
+Tutorial 011: []()
+
+## Github: 
+
+Tutorial 010: [https://github.com/mhcrnl/010_tk_menubutton](https://github.com/mhcrnl/010_tk_menubutton)
+
+Tutorial 011: [https://github.com/mhcrnl/011_TkMenu](https://github.com/mhcrnl/011_TkMenu)
 
 ### Resurse:
 
